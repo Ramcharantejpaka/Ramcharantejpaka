@@ -1,7 +1,7 @@
-- 👋 Hi, I’m `@Ramcharantejpaka`
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning `Python`, `Java` and `SQL`
-- 💞️ I’m looking to create and work on my own projects.
+- 👋 Hi, I’m `@Ramcharantejpaka`.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning `Python`, `Java`,`javascript` and `SQL`.
+- 💞️ I’m looking to create and work on my own Projects.
 - 📫 You can reach me on Instagram [pakaramcharan](https://www.instagram.com/pakaramcharan/)
 
 <!---
